@@ -16,8 +16,8 @@ libraries:
 ```
 
 <details>
-  <summary>Bot Code</summary>
-  This is the code for the bot. *Please only read this if you have already beaten the it.*
+  <summary>Bot Code (spoiler)</summary>
+  This is the code for the bot. Please only read this if you have already beaten the it.
   
   ```c
   int AutoPlayer2() {
