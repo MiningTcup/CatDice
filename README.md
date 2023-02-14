@@ -1,5 +1,5 @@
 # CatDice
-Just a fun little game I made. I Know it's pretty inefficient, I made it a while ago. Inspired by [Zombie Dice](https://www.amazon.com/Steve-Jackson-Games-SJG-131313/dp/B003IKMR0U).
+Just a fun little game I made. I know it's pretty inefficient, I made it a while ago. Inspired by [Zombie Dice](https://www.amazon.com/Steve-Jackson-Games-SJG-131313/dp/B003IKMR0U).
 ***
 You're a cat. You try to catch 16 mice before your opponent. You can play against either another person at your computer, or against the bot I programmed.
 
