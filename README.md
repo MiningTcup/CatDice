@@ -5,6 +5,8 @@ You're a cat. You try to catch 16 mice before your opponent. You can play agains
 
 Each turn, you will catch 3 things, each with the possibility of being a mouse, rat, or footsteps. A mouse is good, you need 16 to win. A rat is bad, if you get 3 on any given round, your turn ends immediatly. Footsteps are neutral, they mean the mouse escaped.
 ***
+You'll have to compile it on your own, I can't figure out how to publish c.
+***
 libraries: 
 ```c
 #include <stdio.h>
