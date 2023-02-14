@@ -18,19 +18,19 @@ libraries:
   This is the code for the bot. Please only read this if you have already beaten the it.
   
   ```c
-  int [-]() {
+  int AutoPlayer2() {
     Sleep(1);
     printf("\nCOMPUTER: THINKING");
     Sleep(tempRats);
     if (tempMice > 15 && tempMice > points1) {
         printf("\nCOMPUTER: I WILL WIN");
         Sleep(1);
-        return([-]);
+        return(2);
     }
     else if (tempMice > 7 && tempRats > badRats - 3) {
         printf("\nCOMPUTER: THIS IS LOOKING GOOD");
         Sleep(1);
-        return([-]);
+        return(2);
     }
     else if (tempMice > 2 && tempRats > badRats - 2) {
         printf("\nCOMPUTER: THIS IS OK");
@@ -43,7 +43,7 @@ libraries:
     else {
         printf("\nCOMPUTER: I WILL TRY AGAIN\n");
         Sleep(1);
-        return([-]);
+        return(1);
     }
 }
   ```
